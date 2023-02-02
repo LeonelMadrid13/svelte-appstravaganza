@@ -22,8 +22,8 @@
 * Reddit Client
   * [x] Generate App with Router
   * [x] Add pico.css
-  * [ ] fetch posts from reddit
-  * [ ] Add posts to page
+  * [x] fetch posts from reddit
+  * [x] Add posts to page
     * [ ] Make it look kind of like reddit!
   * [ ] Add favorite button to post
   * [ ] Add favorites page to show favorites
