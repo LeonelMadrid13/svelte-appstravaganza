@@ -27,6 +27,3 @@ The app should be running at [localhost:5000](http://localhost:5000).
 
 ##Contributing
 If you find any issues or have suggestions for new features, feel free to open an issue or submit a pull request.
-
-##License
-This project is licensed under the MIT License. See the LICENSE file for details.
